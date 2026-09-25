@@ -1,0 +1,7 @@
+id_secteur,nom,code,description,longueur,pk_debut,pk_fin
+1,Secteur 1,S1,gare,1084,0,1084
+2,Secteur 2,S2,interstation,959,1084,2043
+3,Secteur 3,S3,gare,890,2043,2933
+4,Secteur 4,S4,interstation,830,2933,3763
+5,Secteur 5,S5,gare,1173,3763,4936
+6,Secteur 6,S6,interstation,1064,4936,6000

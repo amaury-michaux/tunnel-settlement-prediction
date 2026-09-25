@@ -1,0 +1,8 @@
+id_formation,nom,ordre,couleur_r,couleur_v,couleur_b
+R,Remblais,10,150,150,150
+L,Limons,20,240,225,150
+S,Sables,30,250,210,120
+M,Marnes,40,200,225,170
+C,Calcaires,50,170,200,235
+A,Argiles plastiques,60,205,170,225
+K,Craie,70,190,240,100

@@ -1,0 +1,15 @@
+# The project's real data is confidential: only the synthetic dataset is published
+data/*
+!data/README.md
+!data/synthetic/
+
+# Interactive maps embed sensor coordinates
+*.html
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
